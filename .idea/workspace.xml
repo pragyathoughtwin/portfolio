@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="626cf250-94e3-4bfd-a516-7ee09a146e54" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" />
+>>>>>>> 93b2cd0e1c83e99e8263f80f8032c487eb69ca76
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +78,11 @@
       <option name="presentableId" value="Default" />
       <updated>1702275652576</updated>
       <workItem from="1702275654619" duration="1966000" />
+<<<<<<< HEAD
       <workItem from="1702278171093" duration="2069000" />
+=======
+      <workItem from="1702278171093" duration="334000" />
+>>>>>>> 93b2cd0e1c83e99e8263f80f8032c487eb69ca76
     </task>
     <servers />
   </component>
